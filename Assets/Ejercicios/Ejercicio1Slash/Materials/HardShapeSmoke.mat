@@ -13,7 +13,6 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _DISSOLVE
   - _DISSOLVECHANNEL_A
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
@@ -30,11 +29,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AlphaMask:
-        m_Texture: {fileID: 2800000, guid: 56fd867c9157454458412ce0dfd653dc, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: ff8bf3eda54304c4ea50d59ebfff63c1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5f872120275c742409d2eb9611fab06b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DissolveMap:
@@ -60,7 +59,7 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 0
-    - _DISSOLVE: 1
+    - _DISSOLVE: 0
     - _DISSOLVECHANNEL: 3
     - _DstBlend: 10
     - _QueueControl: 0
