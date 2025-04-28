@@ -44,7 +44,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0.6
+    - _Smoothness: 1.15
     - _Start: 0.56
     - _Strength: 1.38
     m_Colors:
