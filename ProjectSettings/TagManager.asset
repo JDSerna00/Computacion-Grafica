@@ -13,9 +13,9 @@ TagManager:
   - UI
   - VFX
   - GlassShards
-  - 
-  - 
-  - 
+  - LayerMask
+  - SeeThrough
+  - Player
   - 
   - 
   - 

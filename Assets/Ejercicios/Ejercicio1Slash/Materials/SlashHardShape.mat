@@ -14,13 +14,14 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _DISSOLVE
+  - _DISSOLVEBYNOISE
   - _DISSOLVECHANNEL_A
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
@@ -30,7 +31,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AlphaMask:
-        m_Texture: {fileID: 2800000, guid: f42c08e1d30fbfb419796fb66391b775, type: 3}
+        m_Texture: {fileID: 2800000, guid: d761c105b47aee74fb6b13cc3f3f8381, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -39,6 +40,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _DissolveMap:
         m_Texture: {fileID: 2800000, guid: 12cc503c55c64cc4caa5e7ba152d4cc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -61,18 +66,22 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DISSOLVE: 1
+    - _DISSOLVEBYNOISE: 1
     - _DISSOLVECHANNEL: 3
+    - _DissolveOutline: 0.13
+    - _DissolvePower: 0.41
     - _DstBlend: 10
+    - _NormalStrength: 2.61
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
     - _Surface: 1
-    - _ZTest: 4
+    - _ZTest: 8
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _EmissionColor: {r: 23.968622, g: 23.968622, b: 23.968622, a: 1}
-    - _SmoothParticlesValue: {r: 0, g: 1, b: 0, a: 0}
+    - _EmissionColor: {r: 95.87452, g: 95.87452, b: 95.87452, a: 1}
+    - _SmoothParticlesValue: {r: 0.07, g: 1, b: 0, a: 0}
     - _SmoothParticlesValues: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4689797026196110661
