@@ -45,5 +45,5 @@ Intenté agregar el blinn phong y los cubemap reflections pero no me gusta el re
 [Youtube Video Link](https://youtu.be/OsHu7IzXZ1M)
 
 ### José David Serna Entrega Final Demo
-
+https://github.com/user-attachments/assets/1ca666a4-1d77-4131-b170-2b4698ef6056
 [WebGL Link Demo](https://jdserna00.github.io/CG_Alatreon_In_Wilds/)
