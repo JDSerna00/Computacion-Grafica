@@ -43,3 +43,7 @@ Adjunto el link al video [Youtube Video Link](https://youtu.be/gia4WkNqiG8)
 
 Intenté agregar el blinn phong y los cubemap reflections pero no me gusta el resultado :c igual agrego otro video
 [Youtube Video Link](https://youtu.be/OsHu7IzXZ1M)
+
+### José David Serna Entrega Final Demo
+
+[WebGL Link Demo](https://jdserna00.github.io/CG_Alatreon_In_Wilds/)
