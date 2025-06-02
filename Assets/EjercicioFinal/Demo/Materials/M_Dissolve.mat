@@ -71,7 +71,7 @@ Material:
     - _BlendModePreserveSpecular: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Dissolve_Amount: 1.0273387
+    - _Dissolve_Amount: 1.0086786
     - _DstBlend: 10
     - _Line_Length: 0.81
     - _Noise_Scale: 0
