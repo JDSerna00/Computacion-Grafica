@@ -2048,11 +2048,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VFX_UnstableSphere
       objectReference: {fileID: 0}
-    - target: {fileID: 191483230755688166, guid: a00a7e5bf897c424e907ab75e3f20998,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 942251095283503389, guid: a00a7e5bf897c424e907ab75e3f20998,
         type: 3}
       propertyPath: m_LocalPosition.x
